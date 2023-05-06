@@ -1,0 +1,12 @@
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\bin\Debug\WarPlane_Z.exe.config
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\bin\Debug\WarPlane_Z.exe
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\bin\Debug\WarPlane_Z.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane Z.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane Z.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane_Z.Properties.Resources.resources
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane Z.csproj.GenerateResource.cache
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane Z.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane_Z.exe
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane_Z.pdb
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\obj\Debug\WarPlane_Z.MainMenuForm.resources
+C:\Users\danii\OneDrive\Рабочий стол\ULearn Game\WarPlane Z\WarPlane Z\bin\Debug\Models\mainAirPlane.png
